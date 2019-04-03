@@ -5,10 +5,10 @@ Solution for HackerRank Problems in Javascript.
 ### Warm-up Challenges
 
 <ul>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\counting_valleys.js"></a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\jumping_on_the_clouds.js"></a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\repeated_string.js"></a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\sock_merchant.js"></a></li>
+<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\counting_valleys.js">Counting Valleys</a></li>
+<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\jumping_on_the_clouds.js">Jumping on the Clouds</a></li>
+<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\repeated_string.js">Repeated String</a></li>
+<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\sock_merchant.js">Sock Merchant</a></li>
 </ul>
 
 ### Arrays
