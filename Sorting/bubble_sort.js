@@ -1,3 +1,11 @@
+/*
+ Problem name: Bubble Sort
+ Difficulty: Easy
+ Pass Test All Case: Yes
+ Score: 30/30
+ More Information: https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
+*/
+
 function countSwaps(a) {
     let isSorted = false;
     let counter = 0;

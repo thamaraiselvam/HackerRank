@@ -29,3 +29,10 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/sherlock_and_anagrams.js"> Sherlock and Anagrams </a> </li>
 <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/two_strings.js"> Two Strings </a> </li>
 </ul>
+
+### Sorting
+
+<ul>
+<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/bubble_sort.js"> Bubble Sort </a> </li>
+</ul>
+
