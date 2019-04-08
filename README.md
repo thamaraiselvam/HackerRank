@@ -34,5 +34,8 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 
 <ul>
 <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/bubble_sort.js"> Bubble Sort </a> </li>
+<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mark_and_toys.js"> Mark and Toys
+
+ </a> </li>
 </ul>
 
