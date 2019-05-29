@@ -39,3 +39,9 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
  </a> </li>
 </ul>
 
+
+### Strings
+<ul>
+<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/making_anagrams.js"> Making Anagrams </a> </li>
+</ul>
+
