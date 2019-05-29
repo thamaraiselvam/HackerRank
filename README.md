@@ -43,5 +43,6 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 ### Strings
 <ul>
 <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/making_anagrams.js"> Making Anagrams </a> </li>
+ <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/alternating_characters.js"> Alternating Characters </a> </li>
 </ul>
 
