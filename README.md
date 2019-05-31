@@ -18,6 +18,9 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/left_rotation.js">Left Rotation</a></li>
 <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/minimum_swaps_2.js">Minimum Swaps 2</a></li>
 <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/newyear_chaos.js">New Year Chaos</a></li>
+ <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/compare-the-triplets.js">Compare the Triplets</a></li>
+ <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/diagonal-difference.js">Diagonal Difference</a></li>
+ <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/birthday-cake-candles.js">Birthday Cake Candles</a></li>
 </ul>
 
 ### Dictionaries and Hashmaps
@@ -34,9 +37,8 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 
 <ul>
 <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/bubble_sort.js"> Bubble Sort </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mark_and_toys.js"> Mark and Toys
-
- </a> </li>
+<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mark_and_toys.js"> Mark and Toys</a> </li>
+ <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mini-max-sum.js"> Mini-Max Sum</a> </li>
 </ul>
 
 
@@ -46,5 +48,6 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
  <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/alternating_characters.js"> Alternating Characters </a> </li>
  <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/sherlock_and_the_valid_string.js"> Sherlock and the Valid String
  </a> </li>
+ <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/time-conversion.js"> Time Conversion </a> </li>
 </ul>
 
