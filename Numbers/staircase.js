@@ -5,7 +5,6 @@
  Link: https://www.hackerrank.com/challenges/staircase/
 */
 
-// Complete the staircase function below.
 function staircase(n) {
     let tmp = n;
     for (let index = 0; index < n; index++){
