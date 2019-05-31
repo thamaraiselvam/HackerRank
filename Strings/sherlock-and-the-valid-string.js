@@ -1,5 +1,5 @@
 /*
- Title: Alternating Characters
+ Title: Sherlock and Valid String
  Difficulty: Medium
  Score: 35
  Link: https://www.hackerrank.com/challenges/sherlock-and-valid-string

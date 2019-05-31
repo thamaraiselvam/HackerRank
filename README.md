@@ -26,6 +26,12 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/two-strings.js"> Two Strings </a></li>
 </ul>
 
+### Numbers
+<ul>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/plus-minus.js"> Plus Minus </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/staircase.js"> Staircase </a></li>
+</ul>
+
 ### Sorting
 
 <ul>
@@ -43,11 +49,5 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/time-conversion.js"> Time Conversion </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/counting-valleys.js"> Counting Valleys </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/repeated-string.js"> Repeated String </a></li>
-</ul>
-
-### Numbers
-<ul>
-    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/plus-minus.js"> Plus Minus </a></li>
-    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/staircase.js"> Staircase </a></li>
 </ul>
 
