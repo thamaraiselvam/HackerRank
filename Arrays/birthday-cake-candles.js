@@ -1,5 +1,5 @@
 /*
- Problem name: Birthday Cake Candles
+ Title: Birthday Cake Candles
  Difficulty: Easy
  Score: 10
  Link: https://www.hackerrank.com/challenges/birthday-cake-candles/

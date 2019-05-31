@@ -1,5 +1,5 @@
 /*
- Name: Mini-Max Sum
+ Title:Mini-Max Sum
  Difficulty: Easy
  Score: 10
  Link: https://www.hackerrank.com/challenges/mini-max-sum/problem

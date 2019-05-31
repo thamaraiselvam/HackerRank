@@ -2,58 +2,52 @@
 
 Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerrank.com/thamaraiselvam">Find Me</a> at HackerRank )
 
-### Warm-up Challenges
-
-<ul>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\counting_valleys.js">Counting Valleys</a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\jumping_on_the_clouds.js">Jumping on the Clouds</a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\repeated_string.js">Repeated String</a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Warm-up Challenges\sock_merchant.js">Sock Merchant</a></li>
-</ul>
-
 ### Arrays
 <ul>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/2d_array_ds.js"> 2D Array - DS </a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/array_manipulation.js">Array Manipulation</a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/left_rotation.js">Left Rotation</a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/minimum_swaps_2.js">Minimum Swaps 2</a></li>
-<li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/newyear_chaos.js">New Year Chaos</a></li>
- <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/compare-the-triplets.js">Compare the Triplets</a></li>
- <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/diagonal-difference.js">Diagonal Difference</a></li>
- <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/birthday-cake-candles.js">Birthday Cake Candles</a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/2d-array-ds.js"> 2D Array - DS </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/array-manipulation.js"> Array Manipulation </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/birthday-cake-candles.js"> Birthday Cake Candles </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/compare-the-triplets.js"> Compare the Triplets </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/diagonal-difference.js"> Diagonal Difference </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/jumping-on-the-clouds.js"> Jumping on the Clouds </a>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/left-rotation.js"> Left Rotation </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/minimum-swaps-2.js"> Minimum Swaps 2 </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/newyear-chaos.js"> New Year Chaos </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/sock-merchant.js">Sock Merchant </a></li>
 </ul>
 
 ### Dictionaries and Hashmaps
 <ul>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/count_triplet.js"> Count Triplet </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/custom_hashmap.js"> Custom Hashmap </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/frequency_queries.js"> Frequency Queries </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/ransom_note.js"> Ransom Note </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/sherlock_and_anagrams.js"> Sherlock and Anagrams </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/two_strings.js"> Two Strings </a> </li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/count-triplet.js"> Count Triplet </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/custom-hashmap.js"> Custom Hashmap </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/frequency-queries.js"> Frequency Queries </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/ransom-note.js"> Ransom Note </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/sherlock-and-anagrams.js"> Sherlock and Anagrams </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/two-strings.js"> Two Strings </a></li>
 </ul>
 
 ### Sorting
 
 <ul>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/bubble_sort.js"> Bubble Sort </a> </li>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mark_and_toys.js"> Mark and Toys</a> </li>
- <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mini-max-sum.js"> Mini-Max Sum</a> </li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/bubble-sort.js"> Bubble Sort </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mark-and-toys.js"> Mark and Toys </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Sorting/mini-max-sum.js"> Mini-Max Sum </a></li>
 </ul>
 
 
 ### Strings
 <ul>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/making_anagrams.js"> Making Anagrams </a> </li>
- <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/alternating_characters.js"> Alternating Characters </a> </li>
- <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/sherlock_and_the_valid_string.js"> Sherlock and the Valid String
- </a> </li>
- <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/time-conversion.js"> Time Conversion </a> </li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/alternating-characters.js"> Alternating Characters </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/making-anagrams.js"> Making Anagrams </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/sherlock-and-the-valid-string.js"> Sherlock and the Valid String </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/time-conversion.js"> Time Conversion </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/counting-valleys.js"> Counting Valleys </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/repeated-string.js"> Repeated String </a></li>
 </ul>
 
 ### Numbers
 <ul>
-<li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/plus-minus.js"> Plus Minus </a> </li>
- <li> <a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/staircase.js"> Staircase </a> </li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/plus-minus.js"> Plus Minus </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/staircase.js"> Staircase </a></li>
 </ul>
 

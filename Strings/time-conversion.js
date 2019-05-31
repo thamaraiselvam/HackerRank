@@ -1,5 +1,5 @@
 /*
- Problem name: Time Conversion
+ Title: Time Conversion
  Difficulty: Easy
  Score: 15
  Link: https://www.hackerrank.com/challenges/time-conversion/

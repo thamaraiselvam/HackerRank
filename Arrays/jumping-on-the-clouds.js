@@ -1,9 +1,8 @@
 /*
- Problem name: Jumping on the Clouds
+ Title: Jumping on the Clouds
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 20/20
- More Information: https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=warmup
+ Score: 20
+ Link: https://www.hackerrank.com/challenges/jumping-on-the-clouds/
 */
 
 function jumpingOnClouds(c) {

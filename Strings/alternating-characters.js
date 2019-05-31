@@ -1,9 +1,8 @@
 /*
- Problem name: Alternating Characters
+ Title: Alternating Characters
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 20/20
- More Information: https://www.hackerrank.com/challenges/alternating-characters/problem
+ Score: 20
+ Link: https://www.hackerrank.com/challenges/alternating-characters/problem
 */
 
 function alternatingCharacters(string) {

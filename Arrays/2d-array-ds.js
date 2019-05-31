@@ -1,9 +1,8 @@
 /*
- Problem name: 2D Array - DS
+ Title: 2D Array - DS
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 15/15
- More Information: https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays
+ Score: 15
+ Link: https://www.hackerrank.com/challenges/2d-array/
 */
 
 function hourglassSum(arr) {

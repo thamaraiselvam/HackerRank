@@ -1,3 +1,9 @@
+/*
+ Title: Sherlock and Anagrams
+ Difficulty: Medium
+ Score: 50
+ Link: https://www.hackerrank.com/challenges/sherlock-and-anagrams/
+*/
 function sherlockAndAnagrams(s) {
     let count = 0;
     let strLength = s.length; //get length

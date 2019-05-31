@@ -1,9 +1,8 @@
 /*
- Problem name: Making Anagrams
+ Title: Making Anagrams
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 25/25
- More Information: https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_r=internal-search
+ Score: 25/
+ Link: https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?h_r=internal-search
 */
 
 

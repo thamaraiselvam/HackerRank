@@ -1,9 +1,8 @@
 /*
- Problem name: Count Triplets
+ Title: Frequency Queries
  Difficulty: Medium
- Pass Test All Case: Yes
- Score: 40/40
- More Information: https://www.hackerrank.com/challenges/frequency-queries/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+ Score: 40
+ Link: https://www.hackerrank.com/challenges/frequency-queries/
 */
 
 function freqQuery(arr) {

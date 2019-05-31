@@ -1,5 +1,5 @@
 /*
- Problem name: Plus Minus
+ Title: Plus Minus
  Difficulty: Easy
  Score: 10
  Link: https://www.hackerrank.com/challenges/plus-minus/problem

@@ -1,7 +1,8 @@
 /*
-Name: https://www.hackerrank.com/challenges/compare-the-triplets/problem
+Title: Compare the Triplets
 Difficulty: Easy
 Max Score: 10
+Link: https://www.hackerrank.com/challenges/compare-the-triplets/problem
 */
 
 function compareTriplets(a, b) {

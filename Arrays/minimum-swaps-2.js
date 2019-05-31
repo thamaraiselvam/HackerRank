@@ -1,9 +1,8 @@
 /*
- Problem name: Minimum Swaps 2
+ Title: Minimum Swaps 2
  Difficulty: Medium
- Pass Test All Case: Yes
- Score: 40/40
- More Information: https://www.hackerrank.com/challenges/minimum-swaps-2/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays
+ Score: 40
+ Link: https://www.hackerrank.com/challenges/minimum-swaps-2
 */
 
 

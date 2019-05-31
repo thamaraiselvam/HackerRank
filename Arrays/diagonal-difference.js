@@ -1,6 +1,6 @@
 
 /*
- Name: Diagonal Difference
+ Title:Diagonal Difference
  Difficulty: Easy
  Score: 10
  Link: https://www.hackerrank.com/challenges/diagonal-difference

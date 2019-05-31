@@ -1,9 +1,8 @@
 /*
- Problem name: Array Manipulation
+ Title: Array Manipulation
  Difficulty: Hard
- Pass Test All Case: Yes
- Score: 60/60
- More Information: https://www.hackerrank.com/challenges/crush/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays
+ Score: 60
+ Link: https://www.hackerrank.com/challenges/crush/problem
 */
 
 function arrayManipulation(n, queries) {

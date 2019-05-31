@@ -1,3 +1,9 @@
+/*
+ Title: Custom Hashmap
+ Difficulty: -
+ Score: -
+ Link: -
+*/
 class customHashMap {
     constructor() {
         this.list = [];

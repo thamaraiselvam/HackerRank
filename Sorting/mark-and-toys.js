@@ -1,9 +1,8 @@
 /*
- Problem name: Mark and Toys
+ Title: Mark and Toys
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 35/35
- More Information: https://www.hackerrank.com/challenges/mark-and-toys/problem
+ Score: 35
+ Link: https://www.hackerrank.com/challenges/mark-and-toys/problem
 */
 
 function maximumToys(prices, balance) {

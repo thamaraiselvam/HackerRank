@@ -1,9 +1,8 @@
 /*
- Problem name: Hash Tables: Ransom Note
+ Title: Hash Tables: Ransom Note
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 25/25
- More Information: https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+ Score: 25
+ Link: https://www.hackerrank.com/challenges/ctci-ransom-note/
 */
 
 class ExtendedMap {

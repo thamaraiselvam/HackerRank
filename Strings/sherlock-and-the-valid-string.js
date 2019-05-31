@@ -1,9 +1,8 @@
 /*
- Problem name: Alternating Characters
+ Title: Alternating Characters
  Difficulty: Medium
- Pass Test All Case: Yes
- Score: 35/35
- More Information: https://www.hackerrank.com/challenges/sherlock-and-valid-string
+ Score: 35
+ Link: https://www.hackerrank.com/challenges/sherlock-and-valid-string
 */
 
 function isValid(string) {

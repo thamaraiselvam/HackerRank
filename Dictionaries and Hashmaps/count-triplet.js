@@ -1,9 +1,8 @@
 /*
- Problem name: Count Triplets
+ Title: Count Triplets
  Difficulty: Medium
- Pass Test All Case: Yes
- Score: 35/35
- More Information: https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+ Score: 35
+ Link: https://www.hackerrank.com/challenges/count-triplets-1/
 */
 
 function countTriplets(arr, r) {

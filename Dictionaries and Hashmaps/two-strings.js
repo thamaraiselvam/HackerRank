@@ -1,9 +1,8 @@
 /*
- Problem name: Two Strings
+ Title: Two Strings
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 25/25
- More Information: https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps
+ Score: 25
+ Link: https://www.hackerrank.com/challenges/two-strings/
 */
 
 function twoStrings(s1, s2) {

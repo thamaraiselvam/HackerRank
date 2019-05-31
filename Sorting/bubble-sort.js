@@ -1,9 +1,8 @@
 /*
- Problem name: Bubble Sort
+ Title: Bubble Sort
  Difficulty: Easy
- Pass Test All Case: Yes
- Score: 30/30
- More Information: https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
+ Score: 30
+ Link: https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
 */
 
 function countSwaps(a) {

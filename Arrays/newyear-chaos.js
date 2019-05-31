@@ -1,9 +1,8 @@
 /*
- Problem name: New Year Chaos
+ Title: New Year Chaos
  Difficulty: Medium
- Pass Test All Case: Yes
- Score: 40/40
- More Information: https://www.hackerrank.com/challenges/new-year-chaos/problem?h_l=interview&playlist_slugs%5B%5D%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D%5B%5D=arrays
+ Score: 40
+ Link: https://www.hackerrank.com/challenges/new-year-chaos/
 */
 
 function minimumBribes(q) {
