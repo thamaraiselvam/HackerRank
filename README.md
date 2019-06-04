@@ -28,6 +28,8 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 
 ### Numbers
 <ul>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/grading.js"> Grading </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/kangaroo.js"> Kangaroo </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/plus-minus.js"> Plus Minus </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Numbers/staircase.js"> Staircase </a></li>
 </ul>
