@@ -8,6 +8,7 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/apple-and-orange.js"> Apple and Orange </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/array-manipulation.js"> Array Manipulation </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/birthday-cake-candles.js"> Birthday Cake Candles </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/breaking-best-and-worst-records.js"> Breaking the Records </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/compare-the-triplets.js"> Compare the Triplets </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/diagonal-difference.js"> Diagonal Difference </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/jumping-on-the-clouds.js"> Jumping on the Clouds </a>
