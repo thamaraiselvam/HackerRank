@@ -5,6 +5,7 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 ### Arrays
 <ul>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/2d-array-ds.js"> 2D Array - DS </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/apple-and-orange.js"> Apple and Orange </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/array-manipulation.js"> Array Manipulation </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/birthday-cake-candles.js"> Birthday Cake Candles </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/compare-the-triplets.js"> Compare the Triplets </a></li>
