@@ -2,7 +2,7 @@
 
 Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerrank.com/thamaraiselvam">Find Me</a> at HackerRank )
 
-Note: This repo is only for refereeing answers. 
+Note: This repository purpose is only for reference. 
 
 ### Arrays
 <ul>
