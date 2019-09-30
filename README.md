@@ -2,6 +2,8 @@
 
 Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerrank.com/thamaraiselvam">Find Me</a> at HackerRank )
 
+Note: This repo is only for refereeing answers. 
+
 ### Arrays
 <ul>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/2d-array-ds.js"> 2D Array - DS </a></li>
