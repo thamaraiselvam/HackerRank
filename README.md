@@ -2,13 +2,12 @@
 
 Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerrank.com/thamaraiselvam">Find Me</a> at HackerRank )
 
-Note: This repository purpose is only for reference.
+Note: This repository is only for educational purpose 
 
 ## Tests
 To run tests, make sure you `npm install` soon as you clone and then run `npm test`
 
 Take a look at `Arrays/left-rotation.spec.js` to see a sample test spec
-
 
 ### Arrays
 <ul>
