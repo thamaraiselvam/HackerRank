@@ -4,12 +4,16 @@
   "description": "Solutions for HackerRank Problems in Javascript.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --watch **/*.spec.js"
+    "test": "mocha --recursive",
+    "report": "nyc mocha --recursive"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.1"
+  },
+  "devDependencies": {
+    "nyc": "^14.1.1"
   }
 }
