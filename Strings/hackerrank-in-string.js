@@ -15,3 +15,8 @@ function hackerrankInString(s) {
   }
   return mask.length === 0 ? "YES" : "NO";
 }
+
+console.log(hackerrankInString("hereiamstackerrank")); //YES
+console.log(hackerrankInString("hackerworld")); //NO
+console.log(hackerrankInString("hhaacckkekraraannk")); //YES
+console.log(hackerrankInString("rhbaasdndfsdskgbfefdbrsdfhuyatrjtcrtyytktjjt")); //NO
