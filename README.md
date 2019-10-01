@@ -4,6 +4,11 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 
 Note: This repository is only for educational purpose 
 
+## Tests
+To run tests, make sure you `npm install` soon as you clone and then run `npm test`
+
+Take a look at `Arrays/left-rotation.spec.js` to see a sample test spec
+
 ### Arrays
 <ul>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/2d-array-ds.js"> 2D Array - DS </a></li>
