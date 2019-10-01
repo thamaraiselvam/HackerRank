@@ -1,0 +1,15 @@
+{
+  "name": "hackerrank",
+  "version": "1.0.0",
+  "description": "Solutions for HackerRank Problems in Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch *.spec.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
