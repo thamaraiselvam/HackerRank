@@ -4,7 +4,7 @@
   "description": "Solutions for HackerRank Problems in Javascript.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --watch *.spec.js"
+    "test": "mocha --watch **/*.spec.js"
   },
   "author": "",
   "license": "ISC",
