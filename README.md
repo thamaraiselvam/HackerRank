@@ -28,6 +28,7 @@ Note: This repository is only for educational purpose
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/ransom-note.js"> Ransom Note </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/sherlock-and-anagrams.js"> Sherlock and Anagrams </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/two-strings.js"> Two Strings </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/game-of-thrones.js"> Game Of Thrones </a></li>
 </ul>
 
 ### Numbers
