@@ -4,6 +4,11 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 
 Note: This repository is only for educational purpose 
 
+## Tests
+To run tests, make sure you `npm install` soon as you clone and then run `npm run test` and run `npm run report` for coverage
+
+Take a look at `test/Arrays/left-rotation.test.js` to see a sample test spec
+
 ### Arrays
 <ul>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Arrays/2d-array-ds.js"> 2D Array - DS </a></li>
@@ -28,6 +33,7 @@ Note: This repository is only for educational purpose
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/ransom-note.js"> Ransom Note </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/sherlock-and-anagrams.js"> Sherlock and Anagrams </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/two-strings.js"> Two Strings </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Dictionaries%20and%20Hashmaps/game-of-thrones.js"> Game Of Thrones </a></li>
 </ul>
 
 ### Numbers

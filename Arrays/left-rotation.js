@@ -5,7 +5,12 @@
  Link: https://www.hackerrank.com/challenges/ctci-array-left-rotation/
 */
 
-function rotLeft(a, d) {
+module.exports = function rotLeft(a, d) {
+
+    if(!a.length){
+        return []
+    }
+
     for (let i = 0; i < d; i++) {
         a.push(a.shift());
     }
