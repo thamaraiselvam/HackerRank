@@ -29,48 +29,7 @@ class Node {
   }
 }
 
-// TESTS
-
-// cycle exists
-const test1 = new Node(1);
-const tail1 = test1.insert(2)               // tail1 === Node #8
-  .insert(3)
-  .insert(4)
-  .insert(5)
-  .insert(6)
-  .insert(7)
-  .insert(8);
-const connection1 = test1.next.next.next;   // connection1 === Node #4
-tail1.next = connection1;
-
-// cycle does not exist
-const test2 = new Node(1);
-test2.insert(2)
-  .insert(3)
-  .insert(4)
-  .insert(5)
-  .insert(6)
-  .insert(7)
-  .insert(8);
-
-// head is null instead of a node
-const test3 = null;
-
-// linked list only has one node, no cycle
-const test4 = new Node(1);
-
-// linked list only has two nodes, no cycle
-const test5 = new Node(1);
-test5.insert(2);
-
-// linked list only has two nodes, tail links to head
-const test6 = new Node(1);
-const tail6 = test6.insert(2);              // tail6 === Node #2
-tail6.next = test6;
-
-console.log(hasCycle(test1));               // true
-console.log(hasCycle(test2));               // false
-console.log(hasCycle(test3));               // false
-console.log(hasCycle(test4));               // false
-console.log(hasCycle(test5));               // false
-console.log(hasCycle(test6));               // true
+module.exports = {
+  hasCycle,
+  Node,
+};
