@@ -6,10 +6,21 @@ Solution for HackerRank Problems in Javascript. ( <a href="https://www.hackerran
 
 Note: This repository is only for educational purpose 
 
-## Tests
-To run tests, make sure you `npm install` soon as you clone and then run `npm run test` and run `npm run report` for coverage
+## Development
 
-Take a look at `test/Arrays/left-rotation.test.js` to see a sample test spec
+Run
+
+```sh
+$ git clone https://github.com/thamaraiselvam/HackerRank.git
+$ cd HackerRank
+$ npm install
+```
+
+This will download the code and install the required dependencies.
+
+To run tests, make sure you `npm install` soon as you clone and then run `npm run test` and run `npm run report` for coverage.
+
+Take a look at `test/Arrays/left-rotation.test.js` to see a sample test spec.
 
 ### Arrays
 <ul>
