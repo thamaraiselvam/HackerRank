@@ -21,7 +21,6 @@ function reverse(head) {
     return newList.head 
 }
 
-
 class DoublyLinkedListNode {
     constructor(nodeData) {
         this.data = nodeData;
@@ -50,14 +49,7 @@ class DoublyLinkedList {
     }
 };
 
-function main() {
-
-        let node = new DoublyLinkedListNode(1);
-        console.log(node)
-}
-main()
 module.exports =  {
-
     reverse, 
     DoublyLinkedList,
     DoublyLinkedListNode
