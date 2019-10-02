@@ -32,4 +32,4 @@ class Node {
 module.exports = {
   hasCycle,
   Node,
-};
+}; 
