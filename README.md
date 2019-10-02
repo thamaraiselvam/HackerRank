@@ -75,5 +75,6 @@ Take a look at `test/Arrays/left-rotation.test.js` to see a sample test spec.
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/counting-valleys.js"> Counting Valleys </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/repeated-string.js"> Repeated String </a></li>
     <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/hackerrank-in-string.js"> HackerRank in a String! </a></li>
+    <li><a href="https://github.com/thamaraiselvam/HackerRank/blob/master/Strings/strong-password.js"> Strong Password </a></li>
 </ul>
 
