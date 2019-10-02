@@ -5,7 +5,7 @@
  Link: https://www.hackerrank.com/challenges/hackerrank-in-a-string
 */
 
-function hackerrankInString(s) {
+module.exports = function hackerrankInString(s) {
   const mask = Array.from("hackerrank");
   for (let i = 0; i < s.length; i++) {
     const currentChar = s.charAt(i);
@@ -14,9 +14,4 @@ function hackerrankInString(s) {
     }
   }
   return mask.length === 0 ? "YES" : "NO";
-}
-
-console.log(hackerrankInString("hereiamstackerrank")); //YES
-console.log(hackerrankInString("hackerworld")); //NO
-console.log(hackerrankInString("hhaacckkekraraannk")); //YES
-console.log(hackerrankInString("rhbaasdndfsdskgbfefdbrsdfhuyatrjtcrtyytktjjt")); //NO
+};
