@@ -6,7 +6,7 @@
 */
 
 
-function timeConversion(time) {
+module.exports = function timeConversion(time) {
     let cycle = time.substring(time.length - 2, time.length);
     let timeWithoutCycle = time.substring(0, time.length - 2);
     let timeArr = timeWithoutCycle.split(':');
@@ -26,5 +26,3 @@ function timeConversion(time) {
 
     return timeArr.join(':')
 }
-
-console.log("07:05:45PM");
