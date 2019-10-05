@@ -5,7 +5,7 @@
  Link: https://www.hackerrank.com/challenges/plus-minus/problem
 */
 
-function plusMinus(arr) {
+module.exports = function plusMinus(arr) {
     let result = {
         positive: 0,
         negative: 0,
@@ -23,13 +23,5 @@ function plusMinus(arr) {
         }
     }
 
-    printValue(result.positive, arrLength);
-    printValue(result.negative, arrLength);
-    printValue(result.zero, arrLength);
+    return result;
 }
-
-function printValue(count, length) {
-    console.log((count / length).toFixed(6));
-}
-
-plusMinus([-4, 3, -9, 0, 4, 1]);
