@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha --recursive",
-    "report": "nyc mocha --recursive"
+    "report": "nyc mocha --recursive",
+    "lint": "./node_modules/.bin/eslint . --ext .js --ignore-pattern node_modules/ --fix; exit 0"
   },
   "author": "",
   "license": "ISC",
@@ -14,6 +15,14 @@
     "mocha": "^6.2.1"
   },
   "devDependencies": {
-    "nyc": "^14.1.1"
+    "eslint": "^6.5.1",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-config-prettier": "^6.4.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jsx-a11y": "^6.2.3",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-react": "^7.16.0",
+    "nyc": "^14.1.1",
+    "prettier": "^1.18.2"
   }
 }
