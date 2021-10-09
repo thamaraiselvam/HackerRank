@@ -2,16 +2,12 @@
     "env": {
       "browser": true,
       "commonjs": true,
-      "es2021": true,
-      "jest/globals": true
+      "es2021": true
     },
     "extends": [
       "eslint:recommended",
       "airbnb-base"
     ],
-    "plugins": [
-          "jest"
-      ],
     "parserOptions": {
       "ecmaVersion": 12
     },
