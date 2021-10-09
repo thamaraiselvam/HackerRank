@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "description": "Solutions for HackerRank Problems in Javascript.",
   "main": "index.js",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "git add"
+    ]
+  },
   "scripts": {
     "test": "mocha --recursive",
     "report": "nyc mocha --recursive"
@@ -14,6 +26,13 @@
     "mocha": "^6.2.1"
   },
   "devDependencies": {
-    "nyc": "^14.1.1"
+    "eslint": "7.32.0",
+    "eslint-config-airbnb-base": "14.2.1",
+    "eslint-plugin-import": "2.24.2",
+    "eslint-plugin-jest": "24.5.2",
+    "husky": "7.0.2",
+    "lint-staged": "11.2.1",
+    "nyc": "^14.1.1",
+    "prettier": "2.4.1"
   }
 }
