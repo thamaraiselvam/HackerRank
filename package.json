@@ -1,19 +1,32 @@
 {
-  "name": "hackerrank",
-  "version": "1.0.0",
-  "description": "Solutions for HackerRank Problems in Javascript.",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha --recursive",
-    "report": "nyc mocha --recursive"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "chai": "^4.2.0",
-    "mocha": "^6.2.1"
-  },
-  "devDependencies": {
-    "nyc": "^14.1.1"
-  }
+	"name": "hackerrank",
+	"version": "1.0.0",
+	"description": "Solutions for HackerRank Problems in Javascript.",
+	"main": "index.js",
+	"scripts": {
+		"test": "mocha --recursive",
+		"report": "nyc mocha --recursive",
+		"prepare": "husky install"
+	},
+	"lint-staged": {
+		"*.js": [
+			"npx pretty-quick --staged",
+			"eslint --fix"
+		]
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"chai": "^4.2.0",
+		"mocha": "^6.2.1"
+	},
+	"devDependencies": {
+		"eslint": "7.32.0",
+		"eslint-config-airbnb-base": "14.2.1",
+		"eslint-plugin-import": "2.24.2",
+		"husky": "7.0.2",
+		"lint-staged": "11.2.1",
+		"nyc": "^14.1.1",
+		"prettier": "2.4.1"
+	}
 }
