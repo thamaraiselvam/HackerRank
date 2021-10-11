@@ -6,4 +6,4 @@ install:
   - npm install
 script:
 - npm run test
-- .husky/pre-commit
+- npm run lint
