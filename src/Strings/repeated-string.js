@@ -1,0 +1,16 @@
+/*
+ Title: Repeated String
+ Difficulty: Easy
+ Score: 20
+ Link: https://www.hackerrank.com/challenges/repeated-string
+*/
+
+module.exports = function repeatedString(s, n) {
+	const initialCount = s.split('a').length - 1;
+	const cocent = Math.floor(n / s.length);
+	let total = cocent * initialCount;
+	const remainder = n % s.length;
+	const remaindLetter = s.slice(0, remainder);
+	total += remaindLetter.split('a').length - 1;
+	return total;
+};
