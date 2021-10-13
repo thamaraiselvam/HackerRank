@@ -11,7 +11,7 @@ module.exports = function timeConversion(time) {
 	const timeArr = timeWithoutCycle.split(':');
 
 	if (cycle === 'AM') {
-		if (timeArr[0] !== 12) {
+		if (timeArr[0] !== '12') {
 			return timeWithoutCycle;
 		}
 
@@ -19,7 +19,7 @@ module.exports = function timeConversion(time) {
 		return timeArr.join(':');
 	}
 
-	if (timeArr[0] !== 12) {
+	if (timeArr[0] !== '12') {
 		timeArr[0] = parseInt(timeArr[0], 10) + 12;
 	}
 
