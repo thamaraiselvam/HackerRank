@@ -1,3 +1,5 @@
+/* eslint-disable no-restricted-syntax */
+/* eslint-disable guard-for-in */
 /*
  Title: Sherlock and Valid String
  Difficulty: Medium
