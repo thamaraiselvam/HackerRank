@@ -13,21 +13,15 @@
     },
     "rules": {
       "indent": ["error", "tab"],
-      "no-tabs": ["warn", { "allowIndentationTabs": true }],
-      "max-len": ["error", { "code": 155 }],
+      "no-tabs": ["error", { "allowIndentationTabs": true }],
+      "max-len": ["error", { "code": 130 }],
       "no-var": "error",
       "semi": "error",
       "no-multi-spaces": "error",
       "space-in-parens": "error",
       "no-multiple-empty-lines": "error",
       "prefer-const": "error",
-      "no-use-before-define": "error",
-      "max-classes-per-file": ["warn", 1],
-      "no-plusplus":"off",
-      "no-param-reassign":"warn",
-      "no-restricted-syntax":"warn",
-      "no-continue":"warn",
-      "no-bitwise":"off"
+      "no-use-before-define": "error"
     }
   }
 
