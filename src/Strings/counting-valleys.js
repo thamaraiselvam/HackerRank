@@ -5,23 +5,21 @@
  Link: https://www.hackerrank.com/challenges/counting-valleys
 */
 
-function countingValleys(n, s) {
-    let currentValley = 0;
-    let count = 0;
-    for (let i = 0; i < n; i++) {
+module.exports = function countingValleys(n, s) {
+	let currentValley = 0;
+	let count = 0;
+	for (let i = 0; i < n; i++) {
+		if (s[i] === 'U') {
+			currentValley++;
+		}
+		if (s[i] === 'D') {
+			currentValley--;
+		}
 
-        if (s[i] === 'U') {
-            currentValley++;
-        }
-        if (s[i] === 'D') {
-            currentValley--;
-        }
+		if (currentValley === 0 && s[i] === 'U') {
+			count++;
+		}
+	}
 
-        if (currentValley == 0 && s[i] === 'U') {
-            count++;
-        }
-    }
-
-    return count;
-
-}
+	return count;
+};
