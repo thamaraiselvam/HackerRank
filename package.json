@@ -11,7 +11,6 @@
 	},
 	"lint-staged": {
 		"*.js": [
-			"npm run test",
 			"npx pretty-quick --staged",
 			"eslint --fix"
 		]
