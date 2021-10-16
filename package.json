@@ -6,11 +6,11 @@
 	"scripts": {
 		"test": "mocha --recursive",
 		"report": "nyc mocha --recursive",
-		"prepare": "husky install"
+		"prepare": "husky install",
+		"lint": "prettier --write **/*.*js && eslint --fix "
 	},
 	"lint-staged": {
 		"*.js": [
-			"npm run test",
 			"npx pretty-quick --staged",
 			"eslint --fix"
 		]
