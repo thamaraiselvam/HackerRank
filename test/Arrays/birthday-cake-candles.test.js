@@ -1,4 +1,4 @@
-const birthdayCakeCandles = require("../../Arrays/birthday-cake-candles");
+const birthdayCakeCandles = require("../../src/Arrays/birthday-cake-candles");
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
 

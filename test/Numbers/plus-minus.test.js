@@ -1,4 +1,4 @@
-const plusMinus = require('../../Numbers/plus-minus')
+const plusMinus = require('../../src/Numbers/plus-minus')
 const { describe, it } = require('mocha')
 const { expect } = require('chai')
 

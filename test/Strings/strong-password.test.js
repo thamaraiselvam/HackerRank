@@ -1,4 +1,4 @@
-const passwordStrengthMinimumNumber = require("../../Strings/strong-password");
+const passwordStrengthMinimumNumber = require("../../src/Strings/strong-password");
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
 

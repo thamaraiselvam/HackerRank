@@ -1,4 +1,4 @@
-const { reverse, DoublyLinkedListNode, DoublyLinkedList } = require('../../Data Structures/reverse-doubly-linked-list');
+const { reverse, DoublyLinkedListNode, DoublyLinkedList } = require('../../src/Data Structures/reverse-doubly-linked-list');
 const { describe, it } = require('mocha')
 const { expect } = require('chai')
 

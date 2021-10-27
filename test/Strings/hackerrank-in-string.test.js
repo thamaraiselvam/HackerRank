@@ -1,4 +1,4 @@
-const hackerrankInString = require("../../Strings/hackerrank-in-string");
+const hackerrankInString = require("../../src/Strings/hackerrank-in-string");
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
 
