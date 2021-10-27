@@ -6,22 +6,22 @@
 */
 
 function alternatingCharacters(string) {
-	let prev = '';
-	let counter = 0;
-	for (let index = 0; index < string.length; index++) {
-		if (!prev) {
-			prev = string[index];
-			continue;
-		}
+    let prev = '';
+    let counter = 0;
+    for (let index = 0; index < string.length; index++) {
+        if(!prev){
+            prev = string[index];
+            continue;
+        }
 
-		if (prev === string[index]) {
-			counter++;
-		}
+        if(prev === string[index]){
+            counter++;
+        }
 
-		prev = string[index];
-	}
+        prev = string[index];
+    }
 
-	return counter;
+    return counter;
 }
 
 console.log(alternatingCharacters('BBBBB'));

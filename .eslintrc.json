@@ -1,30 +1,27 @@
 {
-	"env": {
-		"browser": true,
-		"commonjs": true,
-		"es2021": true
-	},
-	"extends": ["eslint:recommended", "airbnb-base"],
-	"parserOptions": {
-		"ecmaVersion": 12
-	},
-	"rules": {
-		"indent": ["error", "tab"],
-		"no-tabs": ["warn", { "allowIndentationTabs": true }],
-		"max-len": ["error", { "code": 155 }],
-		"no-var": "error",
-		"semi": "error",
-		"no-multi-spaces": "error",
-		"space-in-parens": "error",
-		"no-multiple-empty-lines": "error",
-		"prefer-const": "error",
-		"no-use-before-define": "error",
-		"max-classes-per-file": ["warn", 1],
-		"no-plusplus": "off",
-		"no-param-reassign": "warn",
-		"no-restricted-syntax": "warn",
-		"no-continue": "warn",
-		"no-bitwise": "off",
-		"guard-for-in": "warn"
-	}
-}
+    "env": {
+      "browser": true,
+      "commonjs": true,
+      "es2021": true
+    },
+    "extends": [
+      "eslint:recommended",
+      "airbnb-base"
+    ],
+    "parserOptions": {
+      "ecmaVersion": 12
+    },
+    "rules": {
+      "indent": ["error", "tab"],
+      "no-tabs": ["error", { "allowIndentationTabs": true }],
+      "max-len": ["error", { "code": 130 }],
+      "no-var": "error",
+      "semi": "error",
+      "no-multi-spaces": "error",
+      "space-in-parens": "error",
+      "no-multiple-empty-lines": "error",
+      "prefer-const": "error",
+      "no-use-before-define": "error"
+    }
+  }
+

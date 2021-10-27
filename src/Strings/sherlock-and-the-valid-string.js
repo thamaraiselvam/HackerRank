@@ -6,35 +6,36 @@
 */
 
 function isValid(string) {
-	const counter = {};
+    let counter = {};
 
-	const arr = string.split('').sort();
-	let smallValue = 0;
-	let allowedTimes = 0;
-	arr.forEach((element) => {
-		counter[element] =			counter[element] === undefined ? 1 : counter[element] + 1;
-	});
+    let arr = string.split('').sort();
+    let smallValue = 0;
+    let allowedTimes = 0;
+    arr.forEach(element => {
+        counter[element] = counter[element] === undefined ? 1 : counter[element]+1;
+    });
 
-	for (const key in counter) {
-		if (smallValue === 0) {
-			smallValue = counter[key];
-			continue;
-		}
+    for(let key in counter){
+        if(smallValue === 0){
+            smallValue = counter[key];
+            continue ;
+        }
 
-		if (smallValue !== counter[key]) {
-			if (counter[key] === 1) {
-				allowedTimes += 1;
-			} else {
-				allowedTimes += Math.abs(smallValue - counter[key]);
-			}
-		}
+        if(smallValue !== counter[key]){
+            if(counter[key] === 1){
+                allowedTimes += 1;
+            } else {
+                allowedTimes += Math.abs(smallValue - counter[key]);
+            }
+        }
 
-		if (allowedTimes > 1) {
-			break;
-		}
-	}
+        if(allowedTimes > 1){
+            break;
+        }
+    }
 
-	return !(allowedTimes > 1);
+    return allowedTimes > 1 ? false : true;
 }
 
-console.log(isValid('abcdefghhgfedecba'));
+
+console.log(isValid("abcdefghhgfedecba"));

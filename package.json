@@ -3,15 +3,11 @@
 	"version": "1.0.0",
 	"description": "Solutions for HackerRank Problems in Javascript.",
 	"main": "index.js",
-	"nyc": {
-		"all": true,
-		"include": [
-			"src/**/*.js"
-		]
-	},
 	"scripts": {
-		"test": "nyc mocha --recursive",
-		"prepare": "husky install"
+		"test": "mocha --recursive",
+		"report": "nyc mocha --recursive",
+		"prepare": "husky install",
+		"lint": "prettier --write **/*.*js && eslint --fix "
 	},
 	"lint-staged": {
 		"*.js": [

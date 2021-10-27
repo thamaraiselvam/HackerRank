@@ -6,35 +6,37 @@
 */
 
 function breakingRecords(scores) {
-	const counters = {
-		min: 0,
-		max: 0,
-	};
 
-	const values = {
-		min: 0,
-		max: 0,
-	};
-	let isDefaultSet = false;
+    let counters = {
+        min: 0,
+        max: 0
+    };
 
-	scores.forEach((score) => {
-		if (!isDefaultSet) {
-			values.min = score;
-			values.max = score;
-			isDefaultSet = true;
-			return;
-		}
+    let values = {
+        min: 0,
+        max: 0
+    }
+    let isDefaultSet = false;
 
-		if (score > values.max) {
-			values.max = score;
-			counters.max++;
-		} else if (score < values.min) {
-			values.min = score;
-			counters.min++;
-		}
-	});
+    scores.forEach(score => {
+        if (!isDefaultSet) {
+            values.min = score;
+            values.max = score;
+            isDefaultSet = true;
+            return ;
+        }
 
-	return [counters.max, counters.min];
+        if (score > values.max) {
+            values.max = score;
+            counters.max++;
+        } else if (score < values.min) {
+            values.min = score;
+            counters.min++;
+        }
+    })
+
+    return [counters.max, counters.min];
+
 }
 
-breakingRecords([10, 5, 20, 20, 4, 5, 2, 25, 1]);
+breakingRecords([10, 5, 20, 20, 4, 5, 2, 25, 1])
