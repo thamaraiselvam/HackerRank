@@ -5,21 +5,23 @@
  Link: https://www.hackerrank.com/challenges/sock-merchant
 */
 
-module.exports = function sockMerchant(n, ar) {
-	const tmpArr = [];
-	let counter = 0;
-	ar.map((value) => {
-		if (tmpArr.includes(value)) {
-			const index = tmpArr.indexOf(value);
-			if (index > -1) {
-				tmpArr.splice(index, 1);
-			}
-			counter++;
-		} else {
-			tmpArr.push(value);
-		}
-		return value;
-	});
 
-	return counter;
-};
+function sockMerchant(n, ar) {
+    let tmpArr = [];
+    let counter = 0;
+    ar.map(value => {
+        if (tmpArr.includes(value)) {
+            var index = tmpArr.indexOf(value);
+            if (index > -1) {
+                tmpArr.splice(index, 1);
+            }
+            counter++;
+        } else {
+            tmpArr.push(value);
+        }
+
+    })
+
+    return counter;
+
+}
