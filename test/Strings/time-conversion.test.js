@@ -1,4 +1,4 @@
-const timeConversion = require("../../Strings/time-conversion");
+const timeConversion = require("../../src/Strings/time-conversion");
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
 

@@ -1,4 +1,4 @@
-const repeatedString = require("../../Strings/repeated-string");
+const repeatedString = require("../../src/Strings/repeated-string");
 const { describe, it } = require("mocha");
 const { expect } = require("chai");
 

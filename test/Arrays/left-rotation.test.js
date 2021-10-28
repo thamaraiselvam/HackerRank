@@ -1,4 +1,4 @@
-const leftRotation = require('../../Arrays/left-rotation')
+const leftRotation = require('../../src/Arrays/left-rotation')
 const { describe, it } = require('mocha')
 const { expect } = require('chai')
 

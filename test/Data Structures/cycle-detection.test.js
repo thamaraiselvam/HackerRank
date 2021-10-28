@@ -1,4 +1,4 @@
-const { hasCycle, Node } = require('../../Data Structures/cycle-detection');
+const { hasCycle, Node } = require('../../src/Data Structures/cycle-detection');
 const { describe, it } = require('mocha');
 const { expect } = require('chai');
 
