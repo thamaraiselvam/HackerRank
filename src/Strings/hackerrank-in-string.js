@@ -6,12 +6,12 @@
 */
 
 module.exports = function hackerrankInString(s) {
-  const mask = Array.from("hackerrank");
-  for (let i = 0; i < s.length; i++) {
-    const currentChar = s.charAt(i);
-    if (mask[0] === currentChar) {
-      mask.shift();
-    }
-  }
-  return mask.length === 0 ? "YES" : "NO";
+	const mask = Array.from('hackerrank');
+	for (let i = 0; i < s.length; i++) {
+		const currentChar = s.charAt(i);
+		if (mask[0] === currentChar) {
+			mask.shift();
+		}
+	}
+	return mask.length === 0 ? 'YES' : 'NO';
 };
