@@ -6,13 +6,14 @@
 */
 
 module.exports = function rotLeft(a, d) {
-	if (!a.length) {
-		return [];
-	}
 
-	for (let i = 0; i < d; i++) {
-		a.push(a.shift());
-	}
+    if(!a.length){
+        return []
+    }
 
-	return a;
-};
+    for (let i = 0; i < d; i++) {
+        a.push(a.shift());
+    }
+
+    return a;
+}

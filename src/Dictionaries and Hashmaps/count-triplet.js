@@ -6,29 +6,30 @@
 */
 
 function countTriplets(arr, r) {
-	const second = {};
-	const third = {};
-	let count = 0;
-	for (let index = 0; index < arr.length; index++) {
-		const val = arr[index];
+    let second = {}
+    let third = {}
+    let count = 0;
+    for (let index = 0; index < arr.length; index++) {
 
-		// If value found on third then add it to count
-		if (third[val]) {
-			count += third[val];
-		}
+        const val = arr[index];
 
-		// If value found on second , convey it to third
+        //If value found on third then add it to count
+        if(third[val]){
+            count += third[val];
+        }
 
-		if (second[val]) {
-			third[val * r] = third[val * r] + second[val] || second[val];
-		}
+        //If value found on second , convey it to third
 
-		// add current element into second value
+        if(second[val]){
+            third[val*r] = third[val*r] + second[val] || second[val];
+        }
 
-		second[val * r] = second[val * r] + 1 || 1;
-	}
+        //add current element into second value
 
-	return count;
+        second[val*r] = second[val*r]+1 || 1;
+    }
+
+    return count;
 }
 
-console.log(countTriplets([1, 2, 2, 4], 2));
+console.log(countTriplets([1,2 ,2,4], 2));
